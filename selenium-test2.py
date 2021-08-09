@@ -1,3 +1,5 @@
+#from this video https://www.youtube.com/watch?v=U6gbGk5WPws
+
 from selenium import webdriver
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.keys import Keys
